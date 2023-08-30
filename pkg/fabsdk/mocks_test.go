@@ -9,17 +9,17 @@ SPDX-License-Identifier: Apache-2.0
 package fabsdk
 
 import (
-	"github.com/hyperledger/fabric-sdk-go/pkg/common/providers/core"
-	"github.com/hyperledger/fabric-sdk-go/pkg/core/logging/api"
+	"github.com/VRamakrishna/fabric-sdk-go/pkg/common/providers/core"
+	"github.com/VRamakrishna/fabric-sdk-go/pkg/core/logging/api"
 
-	"github.com/hyperledger/fabric-sdk-go/pkg/common/providers/fab"
-	"github.com/hyperledger/fabric-sdk-go/pkg/core/cryptosuite"
-	"github.com/hyperledger/fabric-sdk-go/pkg/core/logging/modlog"
-	fabImpl "github.com/hyperledger/fabric-sdk-go/pkg/fab"
-	sdkApi "github.com/hyperledger/fabric-sdk-go/pkg/fabsdk/api"
-	"github.com/hyperledger/fabric-sdk-go/pkg/fabsdk/factory/defcore"
-	"github.com/hyperledger/fabric-sdk-go/pkg/fabsdk/factory/defmsp"
-	"github.com/hyperledger/fabric-sdk-go/pkg/fabsdk/factory/defsvc"
+	"github.com/VRamakrishna/fabric-sdk-go/pkg/common/providers/fab"
+	"github.com/VRamakrishna/fabric-sdk-go/pkg/core/cryptosuite"
+	"github.com/VRamakrishna/fabric-sdk-go/pkg/core/logging/modlog"
+	fabImpl "github.com/VRamakrishna/fabric-sdk-go/pkg/fab"
+	sdkApi "github.com/VRamakrishna/fabric-sdk-go/pkg/fabsdk/api"
+	"github.com/VRamakrishna/fabric-sdk-go/pkg/fabsdk/factory/defcore"
+	"github.com/VRamakrishna/fabric-sdk-go/pkg/fabsdk/factory/defmsp"
+	"github.com/VRamakrishna/fabric-sdk-go/pkg/fabsdk/factory/defsvc"
 	"github.com/pkg/errors"
 )
 

@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/hyperledger/fabric-sdk-go/pkg/common/providers/context"
-	"github.com/hyperledger/fabric-sdk-go/pkg/fab/mocks"
+	"github.com/VRamakrishna/fabric-sdk-go/pkg/common/providers/context"
+	"github.com/VRamakrishna/fabric-sdk-go/pkg/fab/mocks"
 )
 
 func Example() {

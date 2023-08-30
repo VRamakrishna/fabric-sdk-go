@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: Apache-2.0
 
-module github.com/hyperledger/fabric-sdk-go/test/integration
+module github.com/VRamakrishna/fabric-sdk-go/test/integration
 
 replace github.com/hyperledger/fabric-sdk-go => ../../
 

@@ -17,13 +17,13 @@ package event
 import (
 	"time"
 
-	"github.com/hyperledger/fabric-sdk-go/pkg/common/options"
-	"github.com/hyperledger/fabric-sdk-go/pkg/common/providers/context"
-	"github.com/hyperledger/fabric-sdk-go/pkg/common/providers/fab"
-	"github.com/hyperledger/fabric-sdk-go/pkg/fab/events/client"
-	"github.com/hyperledger/fabric-sdk-go/pkg/fab/events/deliverclient"
-	"github.com/hyperledger/fabric-sdk-go/pkg/fab/events/deliverclient/seek"
-	"github.com/hyperledger/fabric-sdk-go/pkg/fab/events/service/dispatcher"
+	"github.com/VRamakrishna/fabric-sdk-go/pkg/common/options"
+	"github.com/VRamakrishna/fabric-sdk-go/pkg/common/providers/context"
+	"github.com/VRamakrishna/fabric-sdk-go/pkg/common/providers/fab"
+	"github.com/VRamakrishna/fabric-sdk-go/pkg/fab/events/client"
+	"github.com/VRamakrishna/fabric-sdk-go/pkg/fab/events/deliverclient"
+	"github.com/VRamakrishna/fabric-sdk-go/pkg/fab/events/deliverclient/seek"
+	"github.com/VRamakrishna/fabric-sdk-go/pkg/fab/events/service/dispatcher"
 	"github.com/pkg/errors"
 )
 

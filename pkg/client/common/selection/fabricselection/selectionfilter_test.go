@@ -10,7 +10,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/hyperledger/fabric-sdk-go/pkg/common/providers/fab"
+	"github.com/VRamakrishna/fabric-sdk-go/pkg/common/providers/fab"
 	"github.com/stretchr/testify/require"
 )
 

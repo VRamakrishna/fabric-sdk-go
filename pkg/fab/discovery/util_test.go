@@ -10,10 +10,10 @@ import (
 	"testing"
 
 	"github.com/hyperledger/fabric-protos-go/gossip"
-	discclient "github.com/hyperledger/fabric-sdk-go/internal/github.com/hyperledger/fabric/discovery/client"
-	gprotoext "github.com/hyperledger/fabric-sdk-go/internal/github.com/hyperledger/fabric/gossip/protoext"
-	"github.com/hyperledger/fabric-sdk-go/pkg/common/providers/fab"
-	"github.com/hyperledger/fabric-sdk-go/pkg/fab/discovery/mocks"
+	discclient "github.com/VRamakrishna/fabric-sdk-go/internal/github.com/hyperledger/fabric/discovery/client"
+	gprotoext "github.com/VRamakrishna/fabric-sdk-go/internal/github.com/hyperledger/fabric/gossip/protoext"
+	"github.com/VRamakrishna/fabric-sdk-go/pkg/common/providers/fab"
+	"github.com/VRamakrishna/fabric-sdk-go/pkg/fab/discovery/mocks"
 	"github.com/stretchr/testify/require"
 )
 

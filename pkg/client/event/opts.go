@@ -9,7 +9,7 @@ package event
 import (
 	"time"
 
-	"github.com/hyperledger/fabric-sdk-go/pkg/fab/events/deliverclient/seek"
+	"github.com/VRamakrishna/fabric-sdk-go/pkg/fab/events/deliverclient/seek"
 )
 
 // ClientOption describes a functional parameter for the New constructor
